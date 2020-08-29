@@ -1,7 +1,0 @@
-git 上传步骤：
-git add .  #.表示所有文件
-git commit -m "  "  #添加说明
-
-git status     #查看提交状态
-git pull       #从远程仓库拉下
-git push       #推送
